@@ -2,7 +2,7 @@
 
 **LOLO is financial clarity for people building real lives.**
 
-LOLO is an early-stage Expo / React Native prototype for a financial reflection product. It is not a budgeting app. It turns demo financial data into monthly stories that help users understand:
+LOLO is my early-stage Expo / React Native prototype for a financial reflection product. It turns demo financial data into monthly stories that help users understand:
 
 - What changed financially
 - Why it matters
@@ -15,7 +15,7 @@ The product thesis is simple: **financial growth should feel like a journal, not
 
 LOLO was founded by **Mubarak (Eni) Adebayo**, an engineer who experienced firsthand how difficult it can be to build financial stability when your story does not fit neatly into traditional systems.
 
-After moving to the United States for college and later beginning his career as an engineer, Eni found himself navigating many of the same challenges faced by millions of young professionals, immigrants, students, and first-generation wealth builders: establishing credit, managing cash flow, making major life decisions, and trying to understand whether he was actually making progress financially.
+After moving around the world  and later beginning his career as an engineer, Eni found himself navigating many of the same challenges faced by millions of young professionals, immigrants, students, and first-generation wealth builders: establishing credit, managing cash flow, making major life decisions, and trying to understand whether he was actually making progress financially.
 
 What frustrated him most was that every financial tool seemed to focus on numbers, transactions, and optimization. Apps could tell him what he spent, but they could not tell him what it meant. They could show him a credit score, but not the story behind it. They could track a budget, but not the decisions, setbacks, and milestones that shaped his financial journey.
 
@@ -66,19 +66,6 @@ The demo opens a realistic frontend-only product experience:
 6. Take one next best action.
 
 The demo uses generated mock data from `lolo-engine/sample_output.json`.
-
-## Screenshots
-
-Screenshot placeholders live in [docs/assets/screenshots](docs/assets/screenshots).
-
-| Screen | Placeholder |
-| --- | --- |
-| Landing page | `docs/assets/screenshots/landing-page.png` |
-| Today | `docs/assets/screenshots/today.png` |
-| Review | `docs/assets/screenshots/review.png` |
-| Reflect | `docs/assets/screenshots/reflect.png` |
-| Me | `docs/assets/screenshots/me.png` |
-| Mobile view | `docs/assets/screenshots/mobile-view.png` |
 
 ## Tech Stack
 
